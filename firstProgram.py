@@ -9,3 +9,7 @@ print (23)
 # add nub
 
 print(3+4)
+
+print(6-4)
+
+print("my name is juli")

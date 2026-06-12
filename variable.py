@@ -12,3 +12,27 @@ print("my age is:",age)
 print(type(name))
 print(type(age))
 print(type(price))
+
+# printb multiple quets
+name1 = "jk" 
+name2 = 'jk'
+name3 = '''jk'''
+
+print(name1)
+print(name2)
+print(name3)
+
+age = 34
+old = False
+a= None
+
+print(type(old))
+print(type(a))
+
+# print sum
+
+a = 4
+b = 6
+multi = a*b
+
+print(multi)
